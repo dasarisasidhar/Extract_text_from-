@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Extract_text_from_Images", "Extract_text_from_Images.pyproj", "{B543EFC3-42AC-4E69-9A4A-8B0FCF0B233B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B543EFC3-42AC-4E69-9A4A-8B0FCF0B233B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B543EFC3-42AC-4E69-9A4A-8B0FCF0B233B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {521927B8-B0B0-439E-A051-D18894334BB6}
+	EndGlobalSection
+EndGlobal
